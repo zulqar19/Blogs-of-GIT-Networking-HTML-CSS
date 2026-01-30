@@ -25,3 +25,6 @@ https://learningzone.hashnode.dev/tcp-vs-udp-when-to-use-what-and-how-tcp-relate
 
 8) How a Browser Works: A Beginner-Friendly Guide to Browser Internals
 https://learningzone.hashnode.dev/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals
+
+9) Understanding HTML Tags and Elements
+https://learningzone.hashnode.dev/understanding-html-tags-and-elements?showSharer=true
